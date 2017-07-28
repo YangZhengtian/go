@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;go&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../ctop_docker" />
+      <root url="file://$PROJECT_DIR$/../demo" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../ctop_docker" />
+      <root url="file://$PROJECT_DIR$/../demo" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
