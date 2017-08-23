@@ -1,11 +1,13 @@
+/*
+ * Revision History:
+ *     Initial: 2017/08/20        Yang Zhengtian
+ */
 package main
 
 import (
 	"fmt"
-	"time"
 )
 
 func main() {
-	fmt.Println(time.Now())
 	fmt.Println("Hello world!")
 }
